@@ -3,14 +3,14 @@
     "emitEntryPoint": true
   },
   "dependencies": {
-    "Microsoft.EntityFrameworkCore.InMemory": "1.0.3"
+    "Microsoft.EntityFrameworkCore.InMemory": "1.0.4"
   },
   "frameworks": {
     "net451": {},
     "netcoreapp1.0": {
       "dependencies": {
         "Microsoft.NETCore.App": {
-          "version": "1.0.4",
+          "version": "1.0.5",
           "type": "platform"
         }
       }

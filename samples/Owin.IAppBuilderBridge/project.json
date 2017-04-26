@@ -4,9 +4,9 @@
     "emitEntryPoint": true
   },
   "dependencies": {
-    "Microsoft.AspNetCore.Owin": "1.0.2",
-    "Microsoft.AspNetCore.DataProtection": "1.0.2",
-    "Microsoft.AspNetCore.Server.IISIntegration": "1.0.2",
+    "Microsoft.AspNetCore.Owin": "1.0.3",
+    "Microsoft.AspNetCore.DataProtection": "1.0.3",
+    "Microsoft.AspNetCore.Server.IISIntegration": "1.0.3",
     "Microsoft.AspNetCore.Server.Kestrel": "1.0.4",
     "Microsoft.Extensions.DependencyInjection": "1.0.2",
     "Microsoft.Owin": "3.0.0"
