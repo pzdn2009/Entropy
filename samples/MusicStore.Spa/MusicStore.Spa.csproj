@@ -6,7 +6,7 @@
     <IsPackable>false</IsPackable>
     <Description>Music store application on ASP.NET Core as a SPA</Description>
     <Authors>Microsoft</Authors>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TargetFrameworks>net46;netcoreapp2.0</TargetFrameworks>
   </PropertyGroup>
 
   <ItemGroup>
