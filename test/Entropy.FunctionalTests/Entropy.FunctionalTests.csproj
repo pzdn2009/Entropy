@@ -59,7 +59,7 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="$(XunitVersion)" />
   </ItemGroup>
 
-  <ItemGroup Condition=" '$(TargetFramework)' == 'net46' ">
+  <ItemGroup Condition=" '$(TargetFramework)' == 'net461' ">
     <ProjectReference Include="..\..\samples\Mvc.LocalizationSample.Web\Mvc.LocalizationSample.Web.csproj" />
   </ItemGroup>
 
