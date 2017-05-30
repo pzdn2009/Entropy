@@ -68,7 +68,7 @@ namespace Entropy.FunctionalTests
             return RunTestAsync(serverType, runtimeFlavor, architecture, applicationType);
         }
 
-#elif NET46
+#elif NET461
 #else
 #error Target framework needs to be updated
 #endif
